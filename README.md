@@ -1,2 +1,3 @@
 # Simple-JavaScript-Game
-Creating a simple JavaScript game from scratch
+Creating a JavaScript game
+2D Breakout Game
